@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with iOS and Android developers who can create the app version of my web application
 - 💬 Ask me about quantum computing and maybe k8s
 - 📫 How to reach me: Visit my [LinkedIn](https://www.linkedin.com/in/makoto-dave-nakai-49a2b71bb/) page
-- 😄 Pronouns: preferrably Makoto, but you can call me "Dave" 
+- 😄 Call me: preferrably Makoto, but you can call me "Dave" 
 - ⚡ Fun fact: I'm a part of choir (both baritone and countertenor), but I like Japanese hiphop better
 - 
 <p align="left"> 
