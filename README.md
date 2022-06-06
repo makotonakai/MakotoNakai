@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Docker, k8s and Terraform (for my internship) and web application development (as my hobby)
+- 🔭 I’m currently working on docker, k8s and terraform (for my internship) and web application development (as my hobby)
 - 🌱 I’m currently learning Golang and Vue.js (I'm using both for my web application)
 - 👯 I’m looking to collaborate on other developers to create cool stuffs, especially on hackathon
 - 🤔 I’m looking for help with iOS and Android developers who can create the app version of my web application
